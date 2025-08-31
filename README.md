@@ -71,5 +71,4 @@ This project focuses on analyzing pipeline sensor data to detect leakages and op
 ---
 
 💡 This is the **Week 1 milestone** — showing **30% project progress**.  
-
-## 📂 Repository Structure  
+  
